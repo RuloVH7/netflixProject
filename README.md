@@ -3,6 +3,8 @@
 Dive into the captivating world of Netflix with this data exploratory analysis. Using a curated Netflix dataset. From genres to ratings, we'll visualize some insights with Python before presenting an 
 interactive Power BI dashboard for a comprehensive viewing experience.
 
+Open the .ipynb file to explore it.
+
 ## 📉 Dataset
 
 This dataset comprises details on various aspects of the content, including titles, genres, release years, countries, ratings, and much more.
