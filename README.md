@@ -14,6 +14,8 @@ This dataset comprises details on various aspects of the content, including titl
 - Python 3.5+ 
 - Jupyter Notebook
 - Panda's Library
+- Seaborn Library
+- Matplotlib Library
 
 
 
@@ -24,6 +26,10 @@ This dataset comprises details on various aspects of the content, including titl
 [Power BI User Guide](https://learn.microsoft.com/en-us/power-bi/)
 
 [Python User Guide](https://www.python.org/doc/)
+
+[Seaborn User Guide](https://seaborn.pydata.org/tutorial.html)
+
+[Matplotlib User Guide](https://matplotlib.org/stable/users/index.html)
 
 [GitHub User Guide](https://docs.github.com/es)
 
