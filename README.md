@@ -1,4 +1,10 @@
 # Welcome to the Netflix Project! 👋
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![power_bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+
+
 
 Dive into the captivating world of Netflix with this data exploratory analysis. Using a curated Netflix dataset. From genres to ratings, we'll visualize some insights with Python before presenting an 
 interactive Power BI dashboard for a comprehensive viewing experience.
@@ -10,15 +16,6 @@ interactive Power BI dashboard for a comprehensive viewing experience.
 ## 📉 Dataset
 
 This dataset comprises details on various aspects of the content, including titles, genres, release years, countries, ratings, and much more.
-
-## 🛠️ Requirements
-
-- Python 3.5+ 
-- Jupyter Notebook
-- Panda's Library
-- Seaborn Library
-- Matplotlib Library
-
 
 
 ## 📚 Documentation
@@ -37,4 +34,4 @@ This dataset comprises details on various aspects of the content, including titl
 
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-reyna-hernandez-3a8062134/)
+[![linkedin](https://img.shields.io/badge/my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-reyna-hernandez-3a8062134/)
