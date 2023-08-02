@@ -4,6 +4,7 @@ Dive into the captivating world of Netflix with this data exploratory analysis. 
 interactive Power BI dashboard for a comprehensive viewing experience.
 
 📝 Open the .ipynb file to explore the process.
+
 📊 Open the .pbix file to explore the dashboard.
 
 ## 📉 Dataset
